@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <>
-      <h1 className='text-3xl'>time2code</h1>
+      <h1 className='text-3xl'>Welcome to my Deployment</h1>
     </>
   );
 }
